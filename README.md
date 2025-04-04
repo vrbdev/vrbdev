@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vrbdev
-- 👀 I’m interested in Front End
-- 🌱 I’m currently learning  Front End
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning  Data
+
 
 <!---
 vrbdev/vrbdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
