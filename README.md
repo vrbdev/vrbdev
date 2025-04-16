@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrbdev
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning  Data
+- 🌱 I’m currently learning  Python and Power BI
 
 
 <!---
